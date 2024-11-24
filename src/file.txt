@@ -1,0 +1,752 @@
+/* Desktop - 2 */
+
+position: relative;
+width: 1440px;
+height: 2151px;
+
+background: #1A1A1A;
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+width: 506px;
+height: 721px;
+left: 458px;
+top: 310px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 506px;
+height: 721px;
+left: 458px;
+top: 310px;
+
+background: rgba(253, 253, 253, 0.25);
+filter: blur(150px);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 427px;
+height: 616px;
+left: calc(50% - 427px/2 - 0.5px);
+top: 364px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+
+/* IMG_20231122_182001_603 1 */
+
+position: absolute;
+width: 397px;
+height: 579px;
+left: calc(50% - 397px/2 - 0.5px);
+top: 382px;
+
+background: url(IMG_20231122_182001_603.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 486px;
+height: 486px;
+left: 3058px;
+top: 250px;
+
+background: rgba(162, 103, 37, 0.5);
+filter: blur(200px);
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 255px;
+height: 163px;
+left: 76px;
+top: 412px;
+
+background: linear-gradient(247.56deg, rgba(234, 234, 234, 0.05) 6.62%, rgba(41, 41, 41, 0.03) 96.11%);
+border-radius: 26px;
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 255px;
+height: 163px;
+left: 76px;
+top: 412px;
+
+background: linear-gradient(247.56deg, rgba(234, 234, 234, 0.05) 6.62%, rgba(41, 41, 41, 0.03) 96.11%);
+border-radius: 26px;
+
+
+/* Discover the Art of Fandom */
+
+position: absolute;
+width: 199px;
+height: 40px;
+left: 104px;
+top: 473px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bring your Favorite Worlds to your Room */
+
+position: absolute;
+width: 280px;
+height: 49px;
+left: 1038px;
+top: 446px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Anime, Movies, TV shows, Sports and many more */
+
+position: absolute;
+width: 258px;
+height: 49px;
+left: 1049px;
+top: 513px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 100+ DESIGNS */
+
+position: absolute;
+width: 251px;
+height: 151px;
+left: 80px;
+top: 650px;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 251px;
+height: 151px;
+left: 80px;
+top: 650px;
+
+background: linear-gradient(247.56deg, rgba(234, 234, 234, 0.05) 6.62%, rgba(41, 41, 41, 0.03) 96.11%);
+border-radius: 26px;
+
+
+/* 100+ DESIGNS */
+
+position: absolute;
+width: 199px;
+height: 55px;
+left: 106px;
+top: 698px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+text-align: center;
+
+color: #E61919;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 294px;
+height: 95px;
+left: 1031px;
+top: 635px;
+
+background: linear-gradient(172.84deg, #BD0606 15.66%, rgba(87, 3, 3, 0.75) 142.58%);
+border-radius: 47.5px;
+
+
+/* Buy NOW */
+
+position: absolute;
+width: 139px;
+height: 23px;
+left: 1109px;
+top: 671px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* explore posters text */
+
+position: absolute;
+width: 347px;
+height: 30px;
+left: 546px;
+top: 1219px;
+
+
+
+/* EXPLORE POSTERS */
+
+position: absolute;
+width: 315px;
+height: 30px;
+left: calc(50% - 315px/2 - 0.5px);
+top: 1219px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(178.12deg, #FFFFFF 1.59%, #999999 98.41%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* STAR */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 546px;
+top: 1229px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 37.92%;
+right: 61.32%;
+top: 57.39%;
+bottom: 42.61%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.03%;
+right: 61.43%;
+top: 57.21%;
+bottom: 42.43%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.03%;
+right: 61.43%;
+top: 57.21%;
+bottom: 42.43%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.3%;
+right: 61.7%;
+top: 57.14%;
+bottom: 42.35%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* STAR */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 882px;
+top: 1229px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 61.25%;
+right: 37.99%;
+top: 57.39%;
+bottom: 42.61%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.36%;
+right: 38.1%;
+top: 57.21%;
+bottom: 42.43%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.36%;
+right: 38.1%;
+top: 57.21%;
+bottom: 42.43%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.63%;
+right: 38.37%;
+top: 57.14%;
+bottom: 42.35%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* background circles */
+
+position: absolute;
+width: 1999px;
+height: 1993px;
+left: -178px;
+top: 315px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 486px;
+height: 486px;
+left: 434px;
+top: 1822px;
+
+background: rgba(162, 103, 37, 0.5);
+filter: blur(200px);
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 357px;
+height: 357px;
+left: -178px;
+top: 315px;
+
+background: rgba(134, 39, 96, 0.49);
+filter: blur(150px);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 486px;
+height: 486px;
+left: 1335px;
+top: 460px;
+
+background: rgba(162, 103, 37, 0.5);
+filter: blur(200px);
+
+
+/* NavBar */
+
+position: absolute;
+width: 1294px;
+height: 69px;
+left: 65px;
+top: 34px;
+
+
+
+/* LOGO */
+
+position: absolute;
+width: 155px;
+height: 69px;
+left: 89px;
+top: 34px;
+
+font-family: 'Kristi';
+font-style: italic;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* MENU */
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 494px;
+top: 53px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* CATEGORIES */
+
+position: absolute;
+width: 178px;
+height: 30px;
+left: 617px;
+top: 53px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* CART */
+
+position: absolute;
+width: 82px;
+height: 30px;
+left: 851px;
+top: 53px;
+
+font-family: 'Krona One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.49%;
+right: 43.75%;
+top: 3.07%;
+bottom: 96.68%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* search and cart icon */
+
+position: absolute;
+width: 55.5px;
+height: 20.03px;
+left: 1303.5px;
+top: 58px;
+
+
+
+/* ACCOUNT ICON */
+
+position: absolute;
+width: 18px;
+height: 20.03px;
+left: 1341px;
+top: 58px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 93.46%;
+right: 6.04%;
+top: 2.7%;
+bottom: 96.97%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.12%;
+right: 5.62%;
+top: 3.21%;
+bottom: 96.37%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* SEARCH */
+
+position: absolute;
+width: 16.5px;
+height: 16.5px;
+left: 1303.5px;
+top: 61.5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 90.52%;
+right: 8.41%;
+top: 2.86%;
+bottom: 96.42%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.44%;
+right: 8.33%;
+top: 3.47%;
+bottom: 96.37%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Burger-Nav */
+
+position: absolute;
+left: 4.51%;
+right: 92.78%;
+top: 2.09%;
+bottom: 96.09%;
+
+
+
+/* Union */
+
+position: absolute;
+width: 26px;
+height: 19.5px;
+left: 6.5px;
+top: 9.75px;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 25%;
+bottom: 25%;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+
+/* CIRCULAR POSTERS LOOP */
+
+position: absolute;
+width: 1276px;
+height: 329px;
+left: calc(50% - 1276px/2 - 17px);
+top: 1309px;
+
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+left: 41.14%;
+right: 41.69%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* chae hae in 2 1 */
+
+position: absolute;
+left: 41.14%;
+right: 41.69%;
+top: 0%;
+bottom: 0%;
+
+background: url(chae hae in 2.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+left: 19.2%;
+right: 67.55%;
+top: 11.55%;
+bottom: 11.25%;
+
+opacity: 0.6;
+
+
+/* chae hae in 2 1 */
+
+position: absolute;
+left: 19.2%;
+right: 67.55%;
+top: 11.55%;
+bottom: 11.25%;
+
+background: url(365927364_687852146525002_4732558270300845036_n.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+left: 0%;
+right: 89.5%;
+top: 19.45%;
+bottom: 19.36%;
+
+opacity: 0.2;
+
+
+/* chae hae in 2 1 */
+
+position: absolute;
+left: 0%;
+right: 89.5%;
+top: 19.45%;
+bottom: 19.36%;
+
+background: url(GOKU POSTER.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+left: 88.95%;
+right: 0.55%;
+top: 19.45%;
+bottom: 19.36%;
+
+opacity: 0.2;
+
+
+/* chae hae in 2 1 */
+
+position: absolute;
+left: 88.95%;
+right: 0.55%;
+top: 19.45%;
+bottom: 19.36%;
+
+background: url(159804718_2852151694998549_47810161473883010_n.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* POSTER MOCKUP */
+
+position: absolute;
+left: 67.01%;
+right: 19.75%;
+top: 11.55%;
+bottom: 11.25%;
+
+opacity: 0.6;
+
+
+/* chae hae in 2 1 */
+
+position: absolute;
+left: 67.01%;
+right: 19.75%;
+top: 11.55%;
+bottom: 11.25%;
+
+background: url(147387316_455293388990441_4754370912389989346_n.jpg);
+border: 8px solid rgba(110, 110, 110, 0.24);
+filter: drop-shadow(2px 4px 5px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
